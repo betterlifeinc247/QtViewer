@@ -1,6 +1,8 @@
 # QtViewer
 Image Overlay
-Initial overlay object for High Sierra. 
+
+
+Initial overlay object image 1 and image 2 for High Sierra. 
 
 
 p = Qtviewer.Qtview(src1,src2)
